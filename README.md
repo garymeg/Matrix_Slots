@@ -1,6 +1,6 @@
 # Slot-machine
 Slot machine with Raspberry Pico and HUB75 display
-using Adafruit ProtoMatter Library
+using Adafruit ProtoMatter Library https://github.com/adafruit/Adafruit_Protomatter
 
 ## Function
 A slot machine based on Raspberry Pico and 32x64 HUB75 RGB LED panel as well as coin button. The rules are the same
